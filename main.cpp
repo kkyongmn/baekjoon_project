@@ -9,6 +9,7 @@ struct Pixel {
     unsigned char green;
     unsigned char blue;
 };
+// 곻경민바보
 
 // 픽셀 배열의 크기
 const int numRows = 112;
